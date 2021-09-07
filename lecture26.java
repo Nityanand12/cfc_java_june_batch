@@ -12,7 +12,7 @@ public class lecture26 {
 //         int id2= p2.size()-1;
 //         TreeNode ans= null;
 //         while(id1>=0&&id2>=0&&p1.get(id1)==p2.get(id2)){
-//             ans= p1.get(id2);
+//             ans= p1.get(id1);
 //             id1--;
 //             id2--;
 //         }
